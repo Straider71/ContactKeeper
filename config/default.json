@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://straider:0921867077@contact-4xe0d.mongodb.net/test?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://straider:0921867077@contact-4xe0d.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "straider"
 }
